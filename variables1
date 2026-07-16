@@ -1,0 +1,7 @@
+vech=Bus
+n=10
+echo $vech
+echo $n
+echo "Enter your name"
+read fname
+echo "Hello $fname, Lets be friends!"
